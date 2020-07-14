@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Green Doctor</string>
+    <string name="buttonSelectPhoto">Select Photo</string>
+    <string name="buttonTakePhoto">Start Camera</string>
+    <string name="buttonDiagnose">Detect</string>
+    <string name="defaultImage">Default image set now...</string>
+    <string name="descriptionImage">View for displaying image</string>
+    <string name="solution">solution</string>
+    <string name="yeah_u_did_it">TOMATO BACTERIAL SPOT
+Apply sulphur sprays or copper-based fungicides weekly at first sign of disease to prevent its spread. These organic fungicides will not kill leaf spot, but prevent the spores from germinating. Safely treat most fungal and bacterial diseases with SERENADE Garden.
+Since water movement spreads the bacteria from diseased to healthy plants, workers and farm equipment should be kept out of fields when fields are wet, because the disease will spread readily under wet conditions.
+The traditional recommendation for bacterial spot control consists of copper and maneb or mancozeb.
+ </string>
+    <string name="todo">TODO</string>
+</resources>
